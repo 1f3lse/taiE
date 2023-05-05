@@ -18,6 +18,8 @@
 
 
 
+
+
 -------红帆iOffice--------
 
 红帆iOffice注入5个，文件上传2个，账号读取1个，其中多数为未公开漏洞，谨慎使用
@@ -25,7 +27,9 @@
 SQL注入 CNVD-2022-62404
 
 文件上传 CNVD-2022-62439
-
+ioRepPicAdd_upload 文件上传
+HtmlEdit_image_upload 文件上传
+iorepsavexml_upload 文件上传
 
 -------泛微OA--------
 
