@@ -15,9 +15,6 @@
 
 
 
-二开PoC支持：ohh、Pawelli、sep
-
-
 
 
 
