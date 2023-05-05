@@ -26,7 +26,7 @@
 
 SQL注入 CNVD-2022-62404
 
-文件上传 CNVD-2022-62439
+文件上传 CNVD-2022-62439  
 ioRepPicAdd_upload 文件上传   
 HtmlEdit_image_upload 文件上传   
 iorepsavexml_upload 文件上传
