@@ -242,7 +242,7 @@ s2-061、s2-devMode
 
 FortiNAC keyUpload文件上传漏洞（CVE-2022-39952）
 
-FortiNAC 用户名密码泄漏漏洞）
+FortiNAC 用户名密码泄漏漏洞  
 
 
 -------其他--------
