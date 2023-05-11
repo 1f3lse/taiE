@@ -30,6 +30,12 @@
 SQL注入 CNVD-2022-62404
 
 文件上传 CNVD-2022-62439  
+CNVD-2023-34068  
+
+CNVD-2023-34071  
+
+
+
 ioRepPicAdd_upload 文件上传   
 HtmlEdit_image_upload 文件上传   
 iorepsavexml_upload 文件上传
