@@ -17,6 +17,21 @@
   
   
   开发支持：ohh 
+
+2023.07.26  
+用友u8 cloud任意文件上传(默认写入冰蝎4.0.3aes)  
+H3C 路由器aspForm前台RCE漏洞  
+
+2023.07.26  
+宏景eHR OfficeServer任意文件上传漏洞,该漏洞执行比较耗时。默认冰蝎3 rebeyond  
+
+2023.07.21  
+新开普 掌上校园管理平台 service_transport命令执行漏洞  
+
+2023.07.06  
+用友畅捷通Tplus GetStoreWarehouseByStore远程代码执行漏洞  
+用友 GRP-U8 UploadFileData 任意文件上传漏洞  
+用友畅捷通T+ RecoverPassword.aspx未授权管理员密码修改漏洞  
   
  2023.6.28  
  
