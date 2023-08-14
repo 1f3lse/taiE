@@ -18,6 +18,30 @@
   
 开发支持：ohh 
 
+2023.08.14  
+
+大华智慧园区综合管理平台publishing_video任意文件上传漏洞(默认写入冰蝎4.0.3aes)  
+
+大华智慧园区任意密码读取漏洞存在  
+
+海康威视 综合安防管理平台env信息泄漏漏洞  
+
+锐捷 NBR 路由器 fileupload.php 任意文件上传漏洞  
+
+锐捷交换机 WEB 管理系统 EXCU_SHELL信息泄露漏洞  
+
+
+  
+2023.08.11  
+
+iVMS综合安防系统resourceOperations任意文件上传漏洞(默认写入冰蝎4.0.3aes)  
+
+蓝凌OA custom.jsp 前台任意文件读取  
+
+绿盟 SAS堡垒机 Exec 远程命令执行漏洞  
+
+
+  
 2023.08.10  
 
 网神 SecGate 3600 防火墙 obj_app_upfile 任意文件上传漏洞(默认蚁剑 ant/base64/其他信息：忽略HTTPS证书)  
